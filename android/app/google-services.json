@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685944367331",
+    "firebase_url": "https://review-school.firebaseio.com",
+    "project_id": "review-school",
+    "storage_bucket": "review-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685944367331:android:77413dcc02e4ac51567dd6",
+        "android_client_info": {
+          "package_name": "com.noobash.review_my_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685944367331-a4ole08mfgq4niphthusft0832nr614e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXKd3Kxw-5YOarwA-phIxo7J4un0mgGDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685944367331-a4ole08mfgq4niphthusft0832nr614e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
